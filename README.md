@@ -18,13 +18,15 @@ Además de la instancia de Mastodon, se han previsto otras acciones como la inst
 
 ## Problemas
 
-El principal problema con el que nos estamos encontrando es la comunicación con todos los usuarios del nodo. Hemos creado un canal #BOFHverse donde intentamos hablar de todo esto, pero no se ha alcanzado ni el 25% de los usuarios activos de la instancia.
+El principal problema con el que nos estamos encontrando es la comunicación con todos los usuarios del nodo. Hemos creado un canal #BOFHverse donde intentamos hablar de todo esto, pero no se ha alcanzado ni el 25% de los usuarios activos de la instancia. UPDATE, **oficialmente** tenemos canal de la instancia `#BOFHers_mastodon`.
+
+- Para poder entrar deberás ser usuario de la instancia, verás el enlace en el anuncio fijado de la misma.
 
 ## Ideas
 
 ### 1. Equipos
 
-Diferentes perfiles que hagan diferentes cosas, porque no a todos nos gusta lo mismo,        los equipos parecen una buena opción para dividir responsabilidades. Todo suma.
+Diferentes perfiles que hagan diferentes cosas, porque no a todos nos gusta lo mismo, los equipos parecen una buena opción para dividir responsabilidades. Todo suma.
 
 - *Team Alpha* (administración de la instancia, actualizaciones, migraciones...)
 - *Team Bravo* (burocracia, federación, interacción con otras instancias...)
@@ -35,7 +37,9 @@ Para apuntarte a alguno de los equipos o sumar de cualquier otra forma puedes po
 
 ### 2. Donaciones
 
-Un sistema de donaciones (*Patreon*, *Paypal*, *Ko-Fi*...) podría recaudar para que los gastos del servidor no sean problema. El *Team Papa* se encargaría de gestionar tanto las membresías de los miembros como los pagos a proveedor de hosting u otras tareas burocráticas que se requieran.
+Un sistema de donaciones (*Patreon*, *Paypal*, *Ko-Fi*...) podría recaudar para que los gastos del servidor no sean problema. El *Team Papa* se encargaría de gestionar tanto las membresías de los miembros como los pagos a proveedor de hosting u otras tareas burocráticas que se requieran. UPDATE, Se ha llegado a la conclusión de concentrar esfuerzos en teaming:
+
+- http://teaming.net/bofhers
 
 Para cubrir un gasto mensual aproximado de 30€ podría haber dos niveles de suscripción:
 
